@@ -1,0 +1,640 @@
+<?xml version="1.0"?> 
+<rdf:RDF 
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+	xmlns:owl="http://www.w3.org/2002/07/owl#" 
+	xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+	xmlns:dcterms="http://purl.org/dc/terms/" 
+	xmlns:dgtwc="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#" 
+	xmlns="http://www.data.gov/semantic/data/alpha/1612/dataset-1612.rdf#" 
+	xml:base="http://www.data.gov/semantic/data/alpha/1612/dataset-1612.rdf" > 
+
+  <rdf:Description rdf:about="#entry1">
+    <joint_service_marriage_female>154</joint_service_marriage_female>
+    <single_with_children_total>818</single_with_children_total>
+    <single_without_children_total>45389</single_without_children_total>
+    <single_without_children_female>6667</single_without_children_female>
+    <civilian_marriage_male>5108</civilian_marriage_male>
+    <civilian_marriage_female>766</civilian_marriage_female>
+    <single_with_children_male>690</single_with_children_male>
+    <joint_service_marriage_total>300</joint_service_marriage_total>
+    <total_total>52381</total_total>
+    <pay_grade>E-1</pay_grade>
+    <joint_service_marriage_male>146</joint_service_marriage_male>
+    <total_male>44666</total_male>
+    <total_female>7715</total_female>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+    <single_without_children_male>38722</single_without_children_male>
+    <civilian_marriage_total>5874</civilian_marriage_total>
+    <single_with_children_female>128</single_with_children_female>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry2">
+    <single_without_children_total>63427</single_without_children_total>
+    <total_total>81101</total_total>
+    <civilian_marriage_female>1673</civilian_marriage_female>
+    <single_with_children_male>1434</single_with_children_male>
+    <single_without_children_female>8488</single_without_children_female>
+    <single_without_children_male>54939</single_without_children_male>
+    <joint_service_marriage_male>481</joint_service_marriage_male>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+    <joint_service_marriage_female>604</joint_service_marriage_female>
+    <total_male>70014</total_male>
+    <joint_service_marriage_total>1085</joint_service_marriage_total>
+    <single_with_children_female>322</single_with_children_female>
+    <total_female>11087</total_female>
+    <civilian_marriage_male>13160</civilian_marriage_male>
+    <pay_grade>E-2</pay_grade>
+    <single_with_children_total>1756</single_with_children_total>
+    <civilian_marriage_total>14833</civilian_marriage_total>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry3">
+    <joint_service_marriage_total>7733</joint_service_marriage_total>
+    <joint_service_marriage_female>4455</joint_service_marriage_female>
+    <total_total>213277</total_total>
+    <single_with_children_female>1662</single_with_children_female>
+    <single_without_children_male>124390</single_without_children_male>
+    <single_without_children_female>19965</single_without_children_female>
+    <pay_grade>E-3</pay_grade>
+    <total_male>181006</total_male>
+    <single_without_children_total>144355</single_without_children_total>
+    <civilian_marriage_total>55389</civilian_marriage_total>
+    <single_with_children_total>5800</single_with_children_total>
+    <single_with_children_male>4138</single_with_children_male>
+    <civilian_marriage_female>6189</civilian_marriage_female>
+    <civilian_marriage_male>49200</civilian_marriage_male>
+    <joint_service_marriage_male>3278</joint_service_marriage_male>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+    <total_female>32271</total_female>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry4">
+    <single_without_children_male>114779</single_without_children_male>
+    <civilian_marriage_female>9936</civilian_marriage_female>
+    <single_without_children_female>16651</single_without_children_female>
+    <total_male>237469</total_male>
+    <single_with_children_female>4782</single_with_children_female>
+    <civilian_marriage_male>104639</civilian_marriage_male>
+    <pay_grade>E-4</pay_grade>
+    <civilian_marriage_total>114575</civilian_marriage_total>
+    <single_with_children_total>14030</single_with_children_total>
+    <joint_service_marriage_female>10042</joint_service_marriage_female>
+    <single_with_children_male>9248</single_with_children_male>
+    <total_total>278880</total_total>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+    <joint_service_marriage_male>8803</joint_service_marriage_male>
+    <single_without_children_total>131430</single_without_children_total>
+    <total_female>41411</total_female>
+    <joint_service_marriage_total>18845</joint_service_marriage_total>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry5">
+    <single_without_children_female>11001</single_without_children_female>
+    <civilian_marriage_female>8690</civilian_marriage_female>
+    <pay_grade>E-5</pay_grade>
+    <single_without_children_total>70006</single_without_children_total>
+    <joint_service_marriage_female>11066</joint_service_marriage_female>
+    <total_male>211929</total_male>
+    <total_total>249209</total_total>
+    <single_with_children_male>10963</single_with_children_male>
+    <single_without_children_male>59005</single_without_children_male>
+    <single_with_children_female>6523</single_with_children_female>
+    <civilian_marriage_male>129673</civilian_marriage_male>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+    <single_with_children_total>17486</single_with_children_total>
+    <civilian_marriage_total>138363</civilian_marriage_total>
+    <joint_service_marriage_male>12288</joint_service_marriage_male>
+    <total_female>37280</total_female>
+    <joint_service_marriage_total>23354</joint_service_marriage_total>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry6">
+    <civilian_marriage_male>109926</civilian_marriage_male>
+    <civilian_marriage_female>5805</civilian_marriage_female>
+    <single_with_children_male>10278</single_with_children_male>
+    <total_male>147790</total_male>
+    <total_female>22255</total_female>
+    <single_with_children_female>4901</single_with_children_female>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+    <single_without_children_male>19256</single_without_children_male>
+    <joint_service_marriage_male>8330</joint_service_marriage_male>
+    <civilian_marriage_total>115731</civilian_marriage_total>
+    <joint_service_marriage_total>15263</joint_service_marriage_total>
+    <pay_grade>E-6</pay_grade>
+    <single_without_children_total>23872</single_without_children_total>
+    <single_with_children_total>15179</single_with_children_total>
+    <total_total>170045</total_total>
+    <joint_service_marriage_female>6933</joint_service_marriage_female>
+    <single_without_children_female>4616</single_without_children_female>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry7">
+    <pay_grade>E-7</pay_grade>
+    <civilian_marriage_male>70406</civilian_marriage_male>
+    <civilian_marriage_total>73629</civilian_marriage_total>
+    <joint_service_marriage_male>5059</joint_service_marriage_male>
+    <single_with_children_total>8914</single_with_children_total>
+    <single_with_children_female>2510</single_with_children_female>
+    <joint_service_marriage_female>3238</joint_service_marriage_female>
+    <total_total>98128</total_total>
+    <civilian_marriage_female>3223</civilian_marriage_female>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+    <total_male>87270</total_male>
+    <single_without_children_male>5401</single_without_children_male>
+    <joint_service_marriage_total>8297</joint_service_marriage_total>
+    <total_female>10858</total_female>
+    <single_with_children_male>6404</single_with_children_male>
+    <single_without_children_total>7288</single_without_children_total>
+    <single_without_children_female>1887</single_without_children_female>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry8">
+    <civilian_marriage_male>21041</civilian_marriage_male>
+    <single_with_children_female>516</single_with_children_female>
+    <joint_service_marriage_female>630</joint_service_marriage_female>
+    <pay_grade>E-8</pay_grade>
+    <joint_service_marriage_male>1387</joint_service_marriage_male>
+    <single_with_children_total>2283</single_with_children_total>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+    <single_without_children_male>1005</single_without_children_male>
+    <total_male>25200</total_male>
+    <single_without_children_total>1456</single_without_children_total>
+    <civilian_marriage_total>21838</civilian_marriage_total>
+    <total_total>27594</total_total>
+    <civilian_marriage_female>797</civilian_marriage_female>
+    <joint_service_marriage_total>2017</joint_service_marriage_total>
+    <single_with_children_male>1767</single_with_children_male>
+    <total_female>2394</total_female>
+    <single_without_children_female>451</single_without_children_female>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry9">
+    <total_male>9610</total_male>
+    <joint_service_marriage_female>155</joint_service_marriage_female>
+    <civilian_marriage_total>8493</civilian_marriage_total>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+    <single_without_children_male>370</single_without_children_male>
+    <joint_service_marriage_male>482</joint_service_marriage_male>
+    <single_without_children_female>205</single_without_children_female>
+    <total_total>10398</total_total>
+    <civilian_marriage_male>8197</civilian_marriage_male>
+    <single_without_children_total>575</single_without_children_total>
+    <single_with_children_female>132</single_with_children_female>
+    <single_with_children_male>561</single_with_children_male>
+    <total_female>788</total_female>
+    <pay_grade>E-9</pay_grade>
+    <joint_service_marriage_total>637</joint_service_marriage_total>
+    <single_with_children_total>693</single_with_children_total>
+    <civilian_marriage_female>296</civilian_marriage_female>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry10">
+    <civilian_marriage_total>548725</civilian_marriage_total>
+    <civilian_marriage_male>511350</civilian_marriage_male>
+    <single_without_children_female>69931</single_without_children_female>
+    <single_with_children_total>66959</single_with_children_total>
+    <total_female>166059</total_female>
+    <joint_service_marriage_female>37277</joint_service_marriage_female>
+    <pay_grade>TOTAL ENLISTED</pay_grade>
+    <single_without_children_total>487798</single_without_children_total>
+    <single_with_children_female>21476</single_with_children_female>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+    <total_total>1181013</total_total>
+    <civilian_marriage_female>37375</civilian_marriage_female>
+    <single_with_children_male>45483</single_with_children_male>
+    <joint_service_marriage_male>40254</joint_service_marriage_male>
+    <joint_service_marriage_total>77531</joint_service_marriage_total>
+    <single_without_children_male>417867</single_without_children_male>
+    <total_male>1014954</total_male>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry11">
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+    <civilian_marriage_total>7298</civilian_marriage_total>
+    <total_male>21091</total_male>
+    <joint_service_marriage_female>623</joint_service_marriage_female>
+    <civilian_marriage_male>6485</civilian_marriage_male>
+    <total_total>25936</total_total>
+    <single_with_children_total>643</single_with_children_total>
+    <single_with_children_male>421</single_with_children_male>
+    <single_without_children_total>16964</single_without_children_total>
+    <single_with_children_female>222</single_with_children_female>
+    <joint_service_marriage_male>408</joint_service_marriage_male>
+    <pay_grade>O-1</pay_grade>
+    <total_female>4845</total_female>
+    <civilian_marriage_female>813</civilian_marriage_female>
+    <single_without_children_male>13777</single_without_children_male>
+    <joint_service_marriage_total>1031</joint_service_marriage_total>
+    <single_without_children_female>3187</single_without_children_female>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry12">
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+    <civilian_marriage_female>968</civilian_marriage_female>
+    <joint_service_marriage_total>1955</joint_service_marriage_total>
+    <joint_service_marriage_male>840</joint_service_marriage_male>
+    <total_male>22134</total_male>
+    <total_total>27150</total_total>
+    <single_without_children_female>2665</single_without_children_female>
+    <single_without_children_male>11215</single_without_children_male>
+    <single_without_children_total>13880</single_without_children_total>
+    <total_female>5016</total_female>
+    <joint_service_marriage_female>1115</joint_service_marriage_female>
+    <single_with_children_male>408</single_with_children_male>
+    <civilian_marriage_male>9671</civilian_marriage_male>
+    <civilian_marriage_total>10639</civilian_marriage_total>
+    <single_with_children_female>268</single_with_children_female>
+    <single_with_children_total>676</single_with_children_total>
+    <pay_grade>O-2</pay_grade>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry13">
+    <pay_grade>O-3</pay_grade>
+    <single_with_children_male>1419</single_with_children_male>
+    <single_without_children_male>15040</single_without_children_male>
+    <joint_service_marriage_female>3206</joint_service_marriage_female>
+    <total_female>13199</total_female>
+    <civilian_marriage_female>3826</civilian_marriage_female>
+    <total_male>58563</total_male>
+    <civilian_marriage_total>42832</civilian_marriage_total>
+    <single_with_children_female>935</single_with_children_female>
+    <civilian_marriage_male>39006</civilian_marriage_male>
+    <joint_service_marriage_total>6304</joint_service_marriage_total>
+    <joint_service_marriage_male>3098</joint_service_marriage_male>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+    <single_without_children_total>20272</single_without_children_total>
+    <single_with_children_total>2354</single_with_children_total>
+    <total_total>71762</total_total>
+    <single_without_children_female>5232</single_without_children_female>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry14">
+    <civilian_marriage_total>33980</civilian_marriage_total>
+    <total_female>6197</total_female>
+    <total_total>44280</total_total>
+    <single_without_children_total>5133</single_without_children_total>
+    <single_with_children_female>518</single_with_children_female>
+    <civilian_marriage_male>31582</civilian_marriage_male>
+    <joint_service_marriage_female>1589</joint_service_marriage_female>
+    <joint_service_marriage_total>3512</joint_service_marriage_total>
+    <single_without_children_male>3441</single_without_children_male>
+    <total_male>38083</total_male>
+    <single_with_children_male>1137</single_with_children_male>
+    <civilian_marriage_female>2398</civilian_marriage_female>
+    <pay_grade>O-4</pay_grade>
+    <single_without_children_female>1692</single_without_children_female>
+    <joint_service_marriage_male>1923</joint_service_marriage_male>
+    <single_with_children_total>1655</single_with_children_total>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry15">
+    <civilian_marriage_female>1583</civilian_marriage_female>
+    <pay_grade>O-5</pay_grade>
+    <single_with_children_male>694</single_with_children_male>
+    <total_male>25013</total_male>
+    <joint_service_marriage_female>796</joint_service_marriage_female>
+    <civilian_marriage_male>22019</civilian_marriage_male>
+    <joint_service_marriage_male>1070</joint_service_marriage_male>
+    <single_without_children_female>810</single_without_children_female>
+    <civilian_marriage_total>23602</civilian_marriage_total>
+    <single_with_children_female>281</single_with_children_female>
+    <single_without_children_total>2040</single_without_children_total>
+    <total_female>3470</total_female>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+    <single_without_children_male>1230</single_without_children_male>
+    <joint_service_marriage_total>1866</joint_service_marriage_total>
+    <single_with_children_total>975</single_with_children_total>
+    <total_total>28483</total_total>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry16">
+    <single_without_children_female>344</single_without_children_female>
+    <pay_grade>O-6</pay_grade>
+    <single_with_children_female>89</single_with_children_female>
+    <joint_service_marriage_female>183</joint_service_marriage_female>
+    <single_without_children_total>693</single_without_children_total>
+    <joint_service_marriage_total>547</joint_service_marriage_total>
+    <total_total>12058</total_total>
+    <civilian_marriage_male>9773</civilian_marriage_male>
+    <civilian_marriage_total>10477</civilian_marriage_total>
+    <total_male>10738</total_male>
+    <single_with_children_male>252</single_with_children_male>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+    <single_with_children_total>341</single_with_children_total>
+    <total_female>1320</total_female>
+    <civilian_marriage_female>704</civilian_marriage_female>
+    <single_without_children_male>349</single_without_children_male>
+    <joint_service_marriage_male>364</joint_service_marriage_male>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry17">
+    <total_male>444</total_male>
+    <total_female>34</total_female>
+    <joint_service_marriage_female>8</joint_service_marriage_female>
+    <single_without_children_female>6</single_without_children_female>
+    <single_with_children_total>6</single_with_children_total>
+    <total_total>478</total_total>
+    <joint_service_marriage_total>18</joint_service_marriage_total>
+    <single_without_children_total>11</single_without_children_total>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+    <civilian_marriage_female>18</civilian_marriage_female>
+    <single_without_children_male>5</single_without_children_male>
+    <civilian_marriage_male>425</civilian_marriage_male>
+    <civilian_marriage_total>443</civilian_marriage_total>
+    <joint_service_marriage_male>10</joint_service_marriage_male>
+    <single_with_children_male>4</single_with_children_male>
+    <pay_grade>O-7</pay_grade>
+    <single_with_children_female>2</single_with_children_female>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry18">
+    <total_total>309</total_total>
+    <joint_service_marriage_male>8</joint_service_marriage_male>
+    <civilian_marriage_female>19</civilian_marriage_female>
+    <single_with_children_total>1</single_with_children_total>
+    <total_female>27</total_female>
+    <single_with_children_female>0</single_with_children_female>
+    <civilian_marriage_male>269</civilian_marriage_male>
+    <single_without_children_female>7</single_without_children_female>
+    <total_male>282</total_male>
+    <single_with_children_male>1</single_with_children_male>
+    <single_without_children_total>11</single_without_children_total>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+    <pay_grade>O-8</pay_grade>
+    <civilian_marriage_total>288</civilian_marriage_total>
+    <joint_service_marriage_female>1</joint_service_marriage_female>
+    <single_without_children_male>4</single_without_children_male>
+    <joint_service_marriage_total>9</joint_service_marriage_total>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry19">
+    <joint_service_marriage_male>1</joint_service_marriage_male>
+    <single_with_children_female>0</single_with_children_female>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+    <single_without_children_female>1</single_without_children_female>
+    <pay_grade>O-9</pay_grade>
+    <total_female>3</total_female>
+    <single_without_children_total>2</single_without_children_total>
+    <single_with_children_total>1</single_with_children_total>
+    <total_male>147</total_male>
+    <single_with_children_male>1</single_with_children_male>
+    <single_without_children_male>1</single_without_children_male>
+    <civilian_marriage_female>1</civilian_marriage_female>
+    <civilian_marriage_male>144</civilian_marriage_male>
+    <joint_service_marriage_female>1</joint_service_marriage_female>
+    <total_total>150</total_total>
+    <civilian_marriage_total>145</civilian_marriage_total>
+    <joint_service_marriage_total>2</joint_service_marriage_total>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry20">
+    <joint_service_marriage_male>1</joint_service_marriage_male>
+    <single_without_children_total>1</single_without_children_total>
+    <single_without_children_male>1</single_without_children_male>
+    <single_with_children_male>0</single_with_children_male>
+    <total_male>39</total_male>
+    <total_female>1</total_female>
+    <joint_service_marriage_total>2</joint_service_marriage_total>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+    <civilian_marriage_male>37</civilian_marriage_male>
+    <total_total>40</total_total>
+    <single_without_children_female>0</single_without_children_female>
+    <civilian_marriage_total>37</civilian_marriage_total>
+    <joint_service_marriage_female>1</joint_service_marriage_female>
+    <pay_grade>O-10</pay_grade>
+    <single_with_children_total>0</single_with_children_total>
+    <civilian_marriage_female>0</civilian_marriage_female>
+    <single_with_children_female>0</single_with_children_female>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry21">
+    <total_female>34112</total_female>
+    <civilian_marriage_female>10330</civilian_marriage_female>
+    <joint_service_marriage_male>7723</joint_service_marriage_male>
+    <pay_grade>TOTAL OFFICER</pay_grade>
+    <joint_service_marriage_female>7523</joint_service_marriage_female>
+    <total_male>176534</total_male>
+    <single_without_children_male>45063</single_without_children_male>
+    <single_with_children_total>6652</single_with_children_total>
+    <single_with_children_male>4337</single_with_children_male>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+    <civilian_marriage_male>119411</civilian_marriage_male>
+    <single_with_children_female>2315</single_with_children_female>
+    <single_without_children_female>13944</single_without_children_female>
+    <joint_service_marriage_total>15246</joint_service_marriage_total>
+    <single_without_children_total>59007</single_without_children_total>
+    <total_total>210646</total_total>
+    <civilian_marriage_total>129741</civilian_marriage_total>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry22">
+    <single_without_children_male>376</single_without_children_male>
+    <pay_grade>W-1</pay_grade>
+    <total_male>2888</total_male>
+    <joint_service_marriage_total>215</joint_service_marriage_total>
+    <civilian_marriage_male>2256</civilian_marriage_male>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+    <single_with_children_male>146</single_with_children_male>
+    <civilian_marriage_female>91</civilian_marriage_female>
+    <civilian_marriage_total>2347</civilian_marriage_total>
+    <total_total>3244</total_total>
+    <total_female>356</total_female>
+    <single_with_children_total>236</single_with_children_total>
+    <single_with_children_female>90</single_with_children_female>
+    <joint_service_marriage_male>110</joint_service_marriage_male>
+    <joint_service_marriage_female>105</joint_service_marriage_female>
+    <single_without_children_total>446</single_without_children_total>
+    <single_without_children_female>70</single_without_children_female>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry23">
+    <single_with_children_female>140</single_with_children_female>
+    <total_female>623</total_female>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+    <single_without_children_female>147</single_without_children_female>
+    <total_male>6432</total_male>
+    <civilian_marriage_female>132</civilian_marriage_female>
+    <pay_grade>W-2</pay_grade>
+    <single_without_children_male>652</single_without_children_male>
+    <joint_service_marriage_male>291</joint_service_marriage_male>
+    <single_without_children_total>799</single_without_children_total>
+    <single_with_children_male>347</single_with_children_male>
+    <civilian_marriage_total>5274</civilian_marriage_total>
+    <civilian_marriage_male>5142</civilian_marriage_male>
+    <single_with_children_total>487</single_with_children_total>
+    <total_total>7055</total_total>
+    <joint_service_marriage_total>495</joint_service_marriage_total>
+    <joint_service_marriage_female>204</joint_service_marriage_female>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry24">
+    <total_total>4750</total_total>
+    <joint_service_marriage_total>278</joint_service_marriage_total>
+    <single_without_children_female>74</single_without_children_female>
+    <single_with_children_female>78</single_with_children_female>
+    <civilian_marriage_total>3826</civilian_marriage_total>
+    <single_with_children_total>353</single_with_children_total>
+    <total_female>342</total_female>
+    <pay_grade>W-3</pay_grade>
+    <joint_service_marriage_female>100</joint_service_marriage_female>
+    <single_without_children_total>293</single_without_children_total>
+    <total_male>4408</total_male>
+    <single_without_children_male>219</single_without_children_male>
+    <single_with_children_male>275</single_with_children_male>
+    <joint_service_marriage_male>178</joint_service_marriage_male>
+    <civilian_marriage_female>90</civilian_marriage_female>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+    <civilian_marriage_male>3736</civilian_marriage_male>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry25">
+    <single_with_children_male>172</single_with_children_male>
+    <single_with_children_female>35</single_with_children_female>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+    <joint_service_marriage_female>45</joint_service_marriage_female>
+    <single_without_children_female>53</single_without_children_female>
+    <joint_service_marriage_total>152</joint_service_marriage_total>
+    <single_without_children_total>169</single_without_children_total>
+    <single_without_children_male>116</single_without_children_male>
+    <total_male>2906</total_male>
+    <civilian_marriage_total>2578</civilian_marriage_total>
+    <civilian_marriage_female>67</civilian_marriage_female>
+    <single_with_children_total>207</single_with_children_total>
+    <pay_grade>W-4</pay_grade>
+    <joint_service_marriage_male>107</joint_service_marriage_male>
+    <civilian_marriage_male>2511</civilian_marriage_male>
+    <total_total>3106</total_total>
+    <total_female>200</total_female>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry26">
+    <total_female>28</total_female>
+    <joint_service_marriage_female>3</joint_service_marriage_female>
+    <civilian_marriage_male>633</civilian_marriage_male>
+    <single_with_children_female>3</single_with_children_female>
+    <single_without_children_male>27</single_without_children_male>
+    <total_total>724</total_total>
+    <pay_grade>W-5</pay_grade>
+    <single_with_children_male>25</single_with_children_male>
+    <joint_service_marriage_male>11</joint_service_marriage_male>
+    <single_without_children_female>8</single_without_children_female>
+    <total_male>696</total_male>
+    <single_with_children_total>28</single_with_children_total>
+    <civilian_marriage_total>647</civilian_marriage_total>
+    <civilian_marriage_female>14</civilian_marriage_female>
+    <joint_service_marriage_total>14</joint_service_marriage_total>
+    <single_without_children_total>35</single_without_children_total>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry27">
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+    <single_without_children_female>352</single_without_children_female>
+    <total_female>1549</total_female>
+    <single_without_children_total>1742</single_without_children_total>
+    <civilian_marriage_male>14278</civilian_marriage_male>
+    <civilian_marriage_female>394</civilian_marriage_female>
+    <joint_service_marriage_male>697</joint_service_marriage_male>
+    <civilian_marriage_total>14672</civilian_marriage_total>
+    <single_without_children_male>1390</single_without_children_male>
+    <single_with_children_total>1311</single_with_children_total>
+    <single_with_children_female>346</single_with_children_female>
+    <single_with_children_male>965</single_with_children_male>
+    <joint_service_marriage_female>457</joint_service_marriage_female>
+    <total_total>18879</total_total>
+    <total_male>17330</total_male>
+    <pay_grade>TOTAL WARRANT</pay_grade>
+    <joint_service_marriage_total>1154</joint_service_marriage_total>
+  </rdf:Description>
+  <rdf:Description rdf:about="#entry28">
+    <civilian_marriage_total>693138</civilian_marriage_total>
+    <single_without_children_female>84227</single_without_children_female>
+    <civilian_marriage_male>645039</civilian_marriage_male>
+    <total_male>1208818</total_male>
+    <single_without_children_total>548547</single_without_children_total>
+    <single_with_children_male>50785</single_with_children_male>
+    <single_with_children_female>24137</single_with_children_female>
+    <single_without_children_male>464320</single_without_children_male>
+    <joint_service_marriage_total>93931</joint_service_marriage_total>
+    <total_female>201720</total_female>
+    <joint_service_marriage_female>45257</joint_service_marriage_female>
+    <civilian_marriage_female>48099</civilian_marriage_female>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#DataEntry"/>
+    <single_with_children_total>74922</single_with_children_total>
+    <total_total>1410538</total_total>
+    <pay_grade>GRAND TOTAL</pay_grade>
+    <joint_service_marriage_male>48674</joint_service_marriage_male>
+  </rdf:Description>
+<!-- schema property definition -->
+  <rdf:Description rdf:about="http://www.data.gov/semantic/data/alpha/1612/dataset-1612.rdf#single_with_children_total">
+    <rdfs:label>Single With Children (Total)</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.data.gov/semantic/data/alpha/1612/dataset-1612.rdf#total_female">
+    <rdfs:label>Total (Female)</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.data.gov/semantic/data/alpha/1612/dataset-1612.rdf#single_with_children_male">
+    <rdfs:label>Single With Children (Male)</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.data.gov/semantic/data/alpha/1612/dataset-1612.rdf#civilian_marriage_total">
+    <rdfs:label>Civilian Marriage (Total)</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.data.gov/semantic/data/alpha/1612/dataset-1612.rdf#joint_service_marriage_female">
+    <rdfs:label>Joint Service Marriage (Female)</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.data.gov/semantic/data/alpha/1612/dataset-1612.rdf#single_without_children_total">
+    <rdfs:label>Single Without Children (Total)</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.data.gov/semantic/data/alpha/1612/dataset-1612.rdf#total_male">
+    <rdfs:label>Total (Male)</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.data.gov/semantic/data/alpha/1612/dataset-1612.rdf#pay_grade">
+    <rdfs:label>Pay Grade</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.data.gov/semantic/data/alpha/1612/dataset-1612.rdf#single_without_children_female">
+    <rdfs:label>Single Without Children (Female)</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.data.gov/semantic/data/alpha/1612/dataset-1612.rdf#total_total">
+    <rdfs:label>Total (Total)</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.data.gov/semantic/data/alpha/1612/dataset-1612.rdf#joint_service_marriage_total">
+    <rdfs:label>Joint Service Marriage (Total)</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.data.gov/semantic/data/alpha/1612/dataset-1612.rdf#civilian_marriage_male">
+    <rdfs:label>Civilian Marriage (Male)</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.data.gov/semantic/data/alpha/1612/dataset-1612.rdf#single_with_children_female">
+    <rdfs:label>Single With Children (Female)</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.data.gov/semantic/data/alpha/1612/dataset-1612.rdf#joint_service_marriage_male">
+    <rdfs:label>Joint Service Marriage (Male)</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.data.gov/semantic/data/alpha/1612/dataset-1612.rdf#civilian_marriage_female">
+    <rdfs:label>Civilian Marriage (Female)</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.data.gov/semantic/data/alpha/1612/dataset-1612.rdf#single_without_children_male">
+    <rdfs:label>Single Without Children (Male)</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+<!-- dataset metadata: property usage -->
+  <rdf:Description rdf:about="http://www.data.gov/semantic/data/alpha/1612/dataset-1612.rdf">
+    <dgtwc:uses_property rdf:resource="http://www.data.gov/semantic/data/alpha/1612/dataset-1612.rdf#total_female"/>
+    <dgtwc:uses_property rdf:resource="http://www.data.gov/semantic/data/alpha/1612/dataset-1612.rdf#single_with_children_female"/>
+    <dgtwc:uses_property rdf:resource="http://www.data.gov/semantic/data/alpha/1612/dataset-1612.rdf#pay_grade"/>
+    <dgtwc:uses_property rdf:resource="http://www.data.gov/semantic/data/alpha/1612/dataset-1612.rdf#total_total"/>
+    <dgtwc:uses_property rdf:resource="http://www.data.gov/semantic/data/alpha/1612/dataset-1612.rdf#joint_service_marriage_total"/>
+    <dgtwc:uses_property rdf:resource="http://www.data.gov/semantic/data/alpha/1612/dataset-1612.rdf#joint_service_marriage_male"/>
+    <dgtwc:uses_property rdf:resource="http://www.data.gov/semantic/data/alpha/1612/dataset-1612.rdf#single_with_children_male"/>
+    <dgtwc:uses_property rdf:resource="http://www.data.gov/semantic/data/alpha/1612/dataset-1612.rdf#civilian_marriage_male"/>
+    <dgtwc:uses_property rdf:resource="http://www.data.gov/semantic/data/alpha/1612/dataset-1612.rdf#total_male"/>
+    <dgtwc:uses_property rdf:resource="http://www.data.gov/semantic/data/alpha/1612/dataset-1612.rdf#joint_service_marriage_female"/>
+    <dgtwc:uses_property rdf:resource="http://www.data.gov/semantic/data/alpha/1612/dataset-1612.rdf#civilian_marriage_total"/>
+    <dgtwc:uses_property rdf:resource="http://www.data.gov/semantic/data/alpha/1612/dataset-1612.rdf#single_without_children_female"/>
+    <dgtwc:uses_property rdf:resource="http://www.data.gov/semantic/data/alpha/1612/dataset-1612.rdf#single_without_children_male"/>
+    <dgtwc:uses_property rdf:resource="http://www.data.gov/semantic/data/alpha/1612/dataset-1612.rdf#civilian_marriage_female"/>
+    <dgtwc:uses_property rdf:resource="http://www.data.gov/semantic/data/alpha/1612/dataset-1612.rdf#single_with_children_total"/>
+    <dgtwc:uses_property rdf:resource="http://www.data.gov/semantic/data/alpha/1612/dataset-1612.rdf#single_without_children_total"/>
+  </rdf:Description>
+<!-- dataset metadata: provenance and statistics -->
+  <rdf:Description rdf:about="http://www.data.gov/semantic/data/alpha/1612/dataset-1612.rdf">
+    <dgtwc:number_of_triples rdf:datatype="http://www.w3.org/2001/XMLSchema#int">533</dgtwc:number_of_triples>
+    <rdfs:isDefinedBy rdf:resource="http://www.data.gov/semantic/data/alpha/92/dataset-92.rdf#entry1612"/>
+    <foaf:homepage rdf:resource="http://www.data.gov/details/1612"/>
+    <rdfs:comment>The RDF version of this dataset is contributed by Tetherless World Constellation at Rensselaer Polytechnic Institute (http://tw.rpi.edu). generated by csv2rdf CSV2RDF (v1.1, 2009-01-28). http://data-gov.tw.rpi.edu/wiki/Source_Code_of_Data.gov_Wiki#Source_Code_of_Demos_and_Applications. </rdfs:comment>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <rdf:type rdf:resource="http://data-gov.tw.rpi.edu/2009/data-gov-twc.rdf#Dataset"/>
+    <dcterms:source rdf:resource="http://www.data.gov/download/1612/xls"/>
+    <dgtwc:number_of_entries rdf:datatype="http://www.w3.org/2001/XMLSchema#int">28</dgtwc:number_of_entries>
+    <dgtwc:number_of_properties rdf:datatype="http://www.w3.org/2001/XMLSchema#int">16</dgtwc:number_of_properties>
+  </rdf:Description>
+</rdf:RDF>
